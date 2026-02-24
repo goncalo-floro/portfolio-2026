@@ -6,13 +6,13 @@ Projetos relacionados com música, produção sonora, performance e criação ar
 
 **Formação Musical:** Conservatório de Música de Águeda (concluído 2023)
 **Experiência:** Professor de bateria desde 2023
-**Áreas de Interesse:** Composição, produção musical, integração som/jogos
+**Áreas:** Composição, produção musical
 
 ## Projetos
 
 ### [Musical "Encanto" - Obra Adaptada](https://github.com/goncalo-floro/musical-encanto)
 **Contexto:** Escola de Música do CNSA, Mogofores  
-**Período:** 2024
+**Período:** 2024 - 2026
 **Participação:** Componente rítmica e musical
 
 **Descrição:**
@@ -26,15 +26,9 @@ Participação ativa na produção de obra musical adaptada para formato de espe
 
 **Competências demonstradas:**
 - Performance musical em contexto de grupo
-- Adaptação e arranjo musical
+- Adaptação e arranjos musical
 - Trabalho colaborativo em produção artística
 - Gestão de ensaios e preparação para espetáculo
-
-**Aprendizagens relevantes para jogos:**
-- Timing rítmico e sincronização
-- Criação de atmosfera através do som
-- Progressão emocional em narrativas
-- Trabalho em equipa
 
 ---
 
